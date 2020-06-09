@@ -1,2 +1,10 @@
 dist
 node_modules
+
+zk-*
+
+.vscode/
+
+.idea/
+
+mongo-data/
